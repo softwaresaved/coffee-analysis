@@ -1,12 +1,19 @@
 # coffee-analysis
 
-This code generates a visual plot of United States coffee suppliers in terms of flavor and cupper points.
+## Description
 
-# How to Run the Code
+## Pre-requisites
 
-```
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python analyse-coffee.py
-```
+## Installation
+
+## Usage
+
+## Running Tests
+
+## Maintainers
+
+## Licence
+
+## Authors
+
+## Acknowledgements
